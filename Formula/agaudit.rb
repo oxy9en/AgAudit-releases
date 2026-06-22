@@ -1,9 +1,9 @@
 class Agaudit < Formula
   desc "Local-first audit CLI for AI-agent usage (Apple Silicon)"
   homepage "https://github.com/oxy9en/AgAudit-releases"
-  version "1.0.13"
-  url "https://github.com/oxy9en/AgAudit-releases/releases/download/1.0.13/agaudit-macos-arm64.tar.gz"
-  sha256 "1848073c7b13928345b6b23e8fd8b890d2af46599f040c98640a9915d8913788"
+  version "1.0.14"
+  url "https://github.com/oxy9en/AgAudit-releases/releases/download/1.0.14/agaudit-macos-arm64.tar.gz"
+  sha256 "6467813acb0b42912e8fc05a469c8d5f3ba18f5427dd4e5c0974a328179fbcab"
 
   depends_on macos: :sonoma
 
